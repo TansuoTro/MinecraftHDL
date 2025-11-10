@@ -4,7 +4,7 @@
 [flow]: https://github.com/itsFrank/MinecraftHDL/blob/master/screenshots/flow.png?raw=true 
  
  
-# Minecraft HDL 
+# Minecraft HDL  
  
 Minecraft HDL is a digital synthesis flow for minecraft redstone circuits. It is an attempt to use industry standard design tools and methods to generate digital circuits with redstone. 
  
@@ -78,3 +78,4 @@ Students:&nbsp;&nbsp;&nbsp;&nbsp;Francis O'Brien - [Website](http://francisobrie
 
 The circuit I generate above is a 2bit adder. It takes two numbers of two bits and adds them. At the end of the gif I set both input numbers to '11' which is the binary representation of the number 3. Then I move to the output and we see that O3=1, O2=1, and O1=0, this gives the binary number '110' which is indeed 6.
  
+
